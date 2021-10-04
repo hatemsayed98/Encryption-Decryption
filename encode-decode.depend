@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631415932 source:d:\hatem\level1\semester2\encode-decode\main.cpp
+	<iostream>
+	<algorithm>
+	<map>
+	<sstream>
+
